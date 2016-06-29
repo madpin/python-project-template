@@ -1,0 +1,1 @@
+select * from bi_v2.raw_ns_general limit 10
